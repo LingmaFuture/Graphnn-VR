@@ -1,0 +1,8 @@
+outputs/
+.venv/
+data/
+docs/
+dist/
+logs/
+__pycache__/
+*.pth
